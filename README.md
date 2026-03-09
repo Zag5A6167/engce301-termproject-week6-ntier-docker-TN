@@ -15,3 +15,12 @@ OS ที่ผมใช้ PopOS
 
 
 <img width="1912" height="973" alt="image" src="https://github.com/user-attachments/assets/feaa1dd5-6f9b-4480-a6de-e39c7ac0cac3" />
+
+
+
+<img width="1881" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d34100d-593b-4311-b2e1-0789500a9580" />
+
+<img width="898" height="563" alt="image" src="https://github.com/user-attachments/assets/5964dccc-0e04-456b-b06c-d1d73defb685" />
+
+<img width="1917" height="1046" alt="image" src="https://github.com/user-attachments/assets/3b7bb2e3-ab04-430b-af5c-3eacc34e6142" />
+
