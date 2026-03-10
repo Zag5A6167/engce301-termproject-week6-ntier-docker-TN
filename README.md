@@ -1,5 +1,14 @@
 # engce301-termproject-week6-ntier-docker ขึ้น Railway 
+
 OS ที่ผมใช้ PopOS
+
+สรุป
+แยกเลเยอร์ แบ่งโค้ดเป็น 3 ส่วน Frontend, Backend, Database
+ใส่ Docker ใส่ Container ให้รันได้เหมือนกันทุกที่ ทั้งในคอมและบน Cloud
+โหลด Dbeaver เชื่อมต่อ railway postgreSQL ใน ralwayสร้าง PostgreSQL ใน Railway เตรียมไว้เก็บข้อมูลจริง
+โยนใส่ Railway ผ่าน GitHub ให้มัน Build และสร้าง URL 
+ผมเทสลอง ยิง API เช็คดู หน้าบ้าน หลังบ้าน DB
+
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5cbd0edc-66d4-4ba0-a739-da04b7e502f6" />
 <img width="693" height="672" alt="image" src="https://github.com/user-attachments/assets/5e7313ef-cc8f-4e1c-ac81-f391f83fc102" />
