@@ -1,4 +1,4 @@
-# engce301-termproject-week6-ntier-docker ขึ้น Railway 
+# engce301-termproject-week6-ntier-docker ขึ้น Railway  (Lab สุดท้าย  )
 
 OS ที่ผมใช้ PopOS
 
